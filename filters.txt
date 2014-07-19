@@ -1,0 +1,59 @@
+[Adblock Plus 2.0]
+
+! [Amazon]
+amazon.com###cf-forums-empty-cel
+amazon.com###navFooter
+amazon.com###pa_related_artists
+amazon.com###rhf_table
+amazon.com##.reviews
+
+! [DLL Files]
+dll-files.com###big_banner
+dll-files.com###foot
+dll-files.com###right
+dll-files.com###top
+dll-files.com###zenbox_tab
+
+! [Facebook]
+facebook.com##._29k
+facebook.com##.rightColumnWrapper.fixed_elem
+
+! [Goodreads]
+goodreads.com###lazy_loadable_view
+
+! [Huffington Post]
+huffingtonpost.com###carousel
+huffingtonpost.com###conversations-huffpost-web
+huffingtonpost.com##.also-on
+huffingtonpost.com##.rail
+
+! [Imgur]
+imgur.com###side-gallery
+
+! [Inspire]
+inspire.com###darken
+inspire.com##.joinpopupnewtwo
+
+! [iTunes]
+itunes.apple.com###facebook
+itunes.apple.com###itunes-client-required
+itunes.apple.com###productheader
+itunes.apple.com##.has-preview-capable-text
+musicbrainz.org##DIV[style="height: 160px; overflow: hidden;"]
+
+! [Quora]
+quora.com###\5f _w2_FidcW80_wrapper
+quora.com###suggs
+quora.com##.blurred_para
+quora.com##.box_feed
+quora.com##.content_page_feed
+quora.com##.feed_preview.row
+quora.com##.modal_signup_background
+quora.com##.SuggestionsSidebar
+
+! [TSeries]
+tseries.com###narrowVideobox
+
+! [Youtube]
+youtube.com###watch7-sidebar
+youtube.com##.yt-uix-expander-collapsed-body
