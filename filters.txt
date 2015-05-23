@@ -1,11 +1,13 @@
-[Adblock Plus 2.0]
-
 ! [Amazon]
 amazon.com###cf-forums-empty-cel
 amazon.com###navFooter
 amazon.com###pa_related_artists
 amazon.com###rhf_table
 amazon.com##.reviews
+
+! [Ars Technica]
+arstechnica.com###page-footer
+arstechnica.com###article-footer-wrap
 
 ! [DLL Files]
 dll-files.com###big_banner
@@ -14,18 +16,25 @@ dll-files.com###right
 dll-files.com###top
 dll-files.com###zenbox_tab
 
-! [Facebook]
-facebook.com##._29k
-facebook.com##.rightColumnWrapper.fixed_elem
-
 ! [Goodreads]
 goodreads.com###lazy_loadable_view
+
+! [Geeks For Geeks]
+geeksforgeeks.org###disqus_thread
+geeksforgeeks.org###footer
+geeksforgeeks.org###post-content.post-content > div:nth-of-type(3)
+geeksforgeeks.org###post.post > .comments-main
+geeksforgeeks.org###text-19.widget.widget_text > .textwidget
+geeksforgeeks.org###text-21.widget.widget_text
+geeksforgeeks.org###text-9.widget.widget_text
 
 ! [Huffington Post]
 huffingtonpost.com###carousel
 huffingtonpost.com###conversations-huffpost-web
 huffingtonpost.com##.also-on
 huffingtonpost.com##.rail
+huffingtonpost.com###wrapper.wrapper.bpage.entry.india.regular > .content > .main.group > .rail
+huffingtonpost.com###social_badges.social_badges_en.social-bar.group.floating.floating_share > .social-badge > .shares.group
 
 ! [Imgur]
 imgur.com###side-gallery
@@ -39,7 +48,16 @@ itunes.apple.com###facebook
 itunes.apple.com###itunes-client-required
 itunes.apple.com###productheader
 itunes.apple.com##.has-preview-capable-text
-musicbrainz.org##DIV[style="height: 160px; overflow: hidden;"]
+itunes.apple.com###socialwrapper > .social.selfclear
+itunes.apple.com###breadory
+! Look into this one
+itunes.apple.com###title.intro > .right:nth-of-type(2) > .view-more[href="https://itunes.apple.com/us/artist/sam-smith/id156488786"]
+
+! [KeyBr] - I felt really bad hiding this one!
+keybr.com##nav > .supporter.size-728x90 > .placeholder.vertical.flex.justify-center.align-center
+
+! [MusicBrainz]
+beta.musicbrainz.org##.server-details
 
 ! [Quora]
 quora.com###\5f _w2_FidcW80_wrapper
@@ -51,9 +69,24 @@ quora.com##.feed_preview.row
 quora.com##.modal_signup_background
 quora.com##.SuggestionsSidebar
 
+! [Scientific American]
+blogs.scientificamerican.com##.toasterAd
+blogs.scientificamerican.com###site-footer
+blogs.scientificamerican.com###subCol2 > ul > .widget.widget_execphp > .execphpwidget > .imageWeek
+
+! [StackExchange Network]
+crypto.stackexchange.com###hot-network-questions.module
+stackoverflow.com###hot-network-questions.module
+
 ! [TSeries]
 tseries.com###narrowVideobox
 
 ! [Youtube]
 youtube.com###watch7-sidebar
 youtube.com##.yt-uix-expander-collapsed-body
+
+! [Misc]
+brobible.com###col2
+noobslab.com###HTML11.widget.HTML
+9gag.com###jsid-featured-item-container
+
