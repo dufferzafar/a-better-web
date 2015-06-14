@@ -9,6 +9,18 @@ amazon.com##.reviews
 arstechnica.com###page-footer
 arstechnica.com###article-footer-wrap
 
+! [Catonmat - Peteris Krumins' Blog]
+catonmat.net###content > .page > .comments
+catonmat.net###content > .page > .footer
+catonmat.net###content > .welcome
+catonmat.net###footer
+catonmat.net###hspace
+catonmat.net###sidebar > .item.subscribe
+catonmat.net###sidebar > .item:nth-of-type(11) > .title
+catonmat.net###sidebar > .item:nth-of-type(12) > .title
+||www.catonmat.net/images/browserling-effortless-cross-browser-testing.png
+||www.catonmat.net/images/fog-creek-interview/browserling.jpg
+
 ! [DLL Files]
 dll-files.com###big_banner
 dll-files.com###foot
@@ -58,6 +70,24 @@ keybr.com##nav > .supporter.size-728x90 > .placeholder.vertical.flex.justify-cen
 
 ! [MusicBrainz]
 beta.musicbrainz.org##.server-details
+
+! [New York Times]
+nytimes.com###main.main > .marginalia.most-emailed-marginalia.nocontent.robots-nocontent
+nytimes.com###whats-next.whats-next.nocontent.robots-nocontent > .recommendations
+nytimes.com###whats-next.whats-next.nocontent.robots-nocontent > .section-news
+
+! [O'Reilly]
+shop.oreilly.com###global-ad
+shop.oreilly.com###video-preview > .infoTabs
+shop.oreilly.com##.mainLayoutTable > tbody > tr:nth-of-type(2) > .contentbg:nth-of-type(2) > div > table > tbody > tr > td:nth-of-type(1) > .relatedContent > .infoTabs
+shop.oreilly.com##.mainLayoutTable > tbody > tr:nth-of-type(2) > .contentbg:nth-of-type(2) > div > table > tbody > tr > td:nth-of-type(3)
+
+! [Paytm]
+paytm.com###chart-logo
+paytm.com###container4
+paytm.com###midd-container-inner > .fr.recharge-right > .offer-bg.border-radius
+paytm.com###site-wrapper > .clear:nth-of-type(6) > .clear > div > div
+paytm.com###tab-sections
 
 ! [Quora]
 quora.com###\5f _w2_FidcW80_wrapper
