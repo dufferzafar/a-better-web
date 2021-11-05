@@ -120,3 +120,86 @@ brobible.com###col2
 noobslab.com###HTML11.widget.HTML
 9gag.com###jsid-featured-item-container
 
+! [chocolatey.org]
+chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
+chocolatey.org##.callout-warning.callout
+chocolatey.org###mc_embed_signup
+chocolatey.org##.flex-shrink-0
+
+! 2021-03-25 https://www.xvideos.com
+www.xvideos.com##.xv-cams-header
+www.xvideos.com##.xv-cams-block
+
+! 2021-05-20 https://www.rekhta.org
+||rekhtacdn.azureedge.net/Images/Cms/Cards/*$image
+
+! 2021-05-21 https://artykite.com
+artykite.com##.float-right.secondary-sidebar
+artykite.com##.footer-wrapper
+
+! 2021-05-22 http://iqbalurdu.blogspot.com
+||*blogspot.com/*.GIF$image
+iqbalurdu.blogspot.com##.comments
+iqbalurdu.blogspot.com###HTML3 > .widget-content
+iqbalurdu.blogspot.com###rb-top
+iqbalurdu.blogspot.com###HTML2
+iqbalurdu.blogspot.com###Followers1 > .widget-content
+
+! 2021-05-31 https://trakt.tv
+||www.google-analytics.com^
+
+! 2021-09-07 https://www.whattowatch.com
+www.whattowatch.com###expanding-articles
+
+! 2021-10-15 https://www.manning.com
+www.manning.com##.share-block
+www.manning.com##.panel-meap.panel-default.panel
+www.manning.com##.toc-read-now-ad.read-now-ad
+www.manning.com##.free-shipping-callout.well
+www.manning.com##.inline-ask-manning-root
+www.manning.com##.become-a-reviewer
+www.manning.com##.cart-cell
+www.manning.com###top-nav-deals > .carousel-inner
+www.manning.com##.related-product-space
+www.manning.com###footer
+www.manning.com##blockquote
+
+! 2021-10-18 https://www.manning.com
+www.manning.com##.liveproject
+www.manning.com##.livevideo
+
+! 2021-10-24 https://freefincal.com
+freefincal.com##.code-block
+freefincal.com##.tve_flt
+freefincal.com##.site-footer
+freefincal.com##.sidebar-area
+freefincal.com##.heateor_sss_sharing_container
+freefincal.com##.post-navigation.navigation
+freefincal.com##.site-bar
+
+! 2021-10-24 https://eightytwentyinvestor.com
+eightytwentyinvestor.com##.widget-area
+eightytwentyinvestor.com##.header-image
+eightytwentyinvestor.com##.sd-sharing-enabled
+eightytwentyinvestor.com##.jetpack_subscription_widget
+eightytwentyinvestor.com##.post-navigation
+
+! 2021-10-29 https://www.linuxuprising.com
+www.linuxuprising.com##.section.sidebar
+
+! 2021-10-30 https://kuvera.in
+kuvera.in##.b-mf-widget
+
+! 2021-10-30 https://coinmarketcap.com
+coinmarketcap.com##.carousel-items-wrapper
+
+! 2021-11-03 https://jichu4n.com
+jichu4n.com###disqus_thread
+jichu4n.com###social-bar
+
+! 2021-11-03 https://disqus.com
+disqus.com##.recommendations-layout
+
+! 2021-11-04 https://nightly.changelog.com
+nightly.changelog.com##.cross-promotion
+
